@@ -1,0 +1,7 @@
+CSCI 561: Artificial Intelligence
+Homework - 2: Greedy, Minimax and AlphaBeta
+By: Dharmik kumar Locharam (5690687605)
+My function returns if the following comditions are satisified
+	- Reached the cut-off depth.
+	- If there are 2 consecutive passes.
+	- If the board has markers of one player only.
